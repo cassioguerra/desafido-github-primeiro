@@ -1,2 +1,2 @@
-# desafido-github-primeiro
-desafio de projeto sobre git/github
+# desafido-git/ghub-primeiro
+desafio de projeto sobre git/gihub
